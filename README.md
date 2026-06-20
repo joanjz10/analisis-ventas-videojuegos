@@ -115,9 +115,8 @@ Lo que más se repite en este análisis es Nintendo. Aparece arriba en publisher
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/joanjz10/proyecto-01-analisis-ventas-videojuegos.git
-cd proyecto-01-analisis-ventas-videojuegos
-```
+git clone https://github.com/joanjz10/analisis-ventas-videojuegos.git
+cd analisis-ventas-videojuegos
 
 2. Instala las dependencias
 ```bash
